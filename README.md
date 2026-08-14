@@ -1,8 +1,8 @@
 # Awesome graphql-java with stars
 
-> Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,221 | 🐛 41 | 🌐 Java | 📅 2026-08-09
+> Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,221 | 🐛 39 | 🌐 Java | 📅 2026-08-14
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,390 | 🐛 99 | 📅 2026-06-30 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,786 | 🐛 100 | 📅 2026-06-30 list thing.*
 
 ## Official Spring integration
 
@@ -18,7 +18,7 @@
 
 ### Schema First
 
-* [graphql-java-tools](https://github.com/graphql-java/graphql-java-tools) ⭐ 823 | 🐛 90 | 🌐 Kotlin | 📅 2026-08-02: A schema-first tool for graphql-java inspired by graphql-tools for JS
+* [graphql-java-tools](https://github.com/graphql-java/graphql-java-tools) ⭐ 823 | 🐛 91 | 🌐 Kotlin | 📅 2026-08-02: A schema-first tool for graphql-java inspired by graphql-tools for JS
 
 * [graphql-java-codegen-maven-plugin](https://github.com/kobylynskyi/graphql-java-codegen/tree/master/plugins/maven) ⭐ 298 | 🐛 90 | 🌐 Java | 📅 2026-08-01: Maven plugin for generating JVM languages(Such as Scala,Kotlin,Java) types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools.
 
@@ -60,13 +60,13 @@
 
 * [graphql-jpa-query](https://github.com/introproventures/graphql-jpa-query) ⭐ 207 | 🐛 61 | 🌐 Java | 📅 2026-03-24: GraphQL Query Api for JPA 2.1 Entity Models
 
-* [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql) ⭐ 176 | 🐛 149 | 🌐 Java | 📅 2026-08-10: An implementation of the above mentioned Specification used in [Quarkus](https://quarkus.io/blog/quarkus-1-5-final-released/) and [OpenLiberty](https://openliberty.io/blog/2020/06/05/graphql-open-liberty-20006.html)
+* [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql) ⭐ 176 | 🐛 150 | 🌐 Java | 📅 2026-08-10: An implementation of the above mentioned Specification used in [Quarkus](https://quarkus.io/blog/quarkus-1-5-final-released/) and [OpenLiberty](https://openliberty.io/blog/2020/06/05/graphql-open-liberty-20006.html)
 
-* [graphql-jpa](https://github.com/jcrygier/graphql-jpa) ⭐ 167 | 🐛 12 | 🌐 Java | 📅 2018-06-11: JPA Implementation of GraphQL (builds on graphql-java)
+* [graphql-jpa](https://github.com/jcrygier/graphql-jpa) ⭐ 166 | 🐛 12 | 🌐 Java | 📅 2018-06-11: JPA Implementation of GraphQL (builds on graphql-java)
 
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) ⭐ 134 | 🐛 9 | 🌐 Java | 📅 2017-03-23: Spring Framework GraphQL Library
 
-* [MicroProfile GraphQL](https://github.com/eclipse/microprofile-graphql) ⭐ 103 | 🐛 79 | 🌐 Java | 📅 2026-07-22: Open Specification for Code-first Java GraphQL Services.
+* [MicroProfile GraphQL](https://github.com/eclipse/microprofile-graphql) ⭐ 102 | 🐛 79 | 🌐 Java | 📅 2026-07-22: Open Specification for Code-first Java GraphQL Services.
 
 * [schemagen-graphql](https://github.com/bpatters/schemagen-graphql) ⭐ 49 | 🐛 11 | 🌐 Java | 📅 2018-09-14: GraphQL-Java add-on that adds support for Schema Generation & Execution for enterprise level applications.
 
@@ -124,7 +124,7 @@
 
 ## Batch Loading
 
-* [java-dataloader](https://github.com/graphql-java/java-dataloader) ⭐ 524 | 🐛 17 | 🌐 Java | 📅 2026-08-03: A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) ⭐ 13,389 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-11
+* [java-dataloader](https://github.com/graphql-java/java-dataloader) ⭐ 524 | 🐛 17 | 🌐 Java | 📅 2026-08-03: A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) ⭐ 13,390 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-11
 
 ## Scalars
 

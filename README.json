@@ -325,7 +325,7 @@
             "last_commit": "2018-06-11T15:56:49Z",
             "owner": "jcrygier",
             "repo": "graphql-jpa",
-            "stars": 167
+            "stars": 166
           }
         },
         {
@@ -353,7 +353,7 @@
             "last_commit": "2026-07-22T03:40:55Z",
             "owner": "microprofile",
             "repo": "microprofile-graphql",
-            "stars": 103
+            "stars": 102
           }
         },
         {
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T00:01:13.244Z",
+    "last_updated": "2026-08-14T23:41:12.227Z",
     "original_repository": "graphql-java/awesome-graphql-java",
     "original_repository_sha": "8461af25d30cde8eae8789b1cea451e5edc2036d",
     "enhanced_repository": "enhansome/enhansome-graphql-java",
