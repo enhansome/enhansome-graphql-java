@@ -2,7 +2,7 @@
 
 > Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,221 | 🐛 41 | 🌐 Java | 📅 2026-08-09
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,058 | 🐛 100 | 📅 2026-06-30 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,390 | 🐛 99 | 📅 2026-06-30 list thing.*
 
 ## Official Spring integration
 
@@ -18,7 +18,7 @@
 
 ### Schema First
 
-* [graphql-java-tools](https://github.com/graphql-java/graphql-java-tools) ⭐ 822 | 🐛 90 | 🌐 Kotlin | 📅 2026-08-02: A schema-first tool for graphql-java inspired by graphql-tools for JS
+* [graphql-java-tools](https://github.com/graphql-java/graphql-java-tools) ⭐ 823 | 🐛 90 | 🌐 Kotlin | 📅 2026-08-02: A schema-first tool for graphql-java inspired by graphql-tools for JS
 
 * [graphql-java-codegen-maven-plugin](https://github.com/kobylynskyi/graphql-java-codegen/tree/master/plugins/maven) ⭐ 298 | 🐛 90 | 🌐 Java | 📅 2026-08-01: Maven plugin for generating JVM languages(Such as Scala,Kotlin,Java) types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools.
 
@@ -60,7 +60,7 @@
 
 * [graphql-jpa-query](https://github.com/introproventures/graphql-jpa-query) ⭐ 207 | 🐛 61 | 🌐 Java | 📅 2026-03-24: GraphQL Query Api for JPA 2.1 Entity Models
 
-* [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql) ⭐ 176 | 🐛 148 | 🌐 Java | 📅 2026-08-10: An implementation of the above mentioned Specification used in [Quarkus](https://quarkus.io/blog/quarkus-1-5-final-released/) and [OpenLiberty](https://openliberty.io/blog/2020/06/05/graphql-open-liberty-20006.html)
+* [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql) ⭐ 176 | 🐛 149 | 🌐 Java | 📅 2026-08-10: An implementation of the above mentioned Specification used in [Quarkus](https://quarkus.io/blog/quarkus-1-5-final-released/) and [OpenLiberty](https://openliberty.io/blog/2020/06/05/graphql-open-liberty-20006.html)
 
 * [graphql-jpa](https://github.com/jcrygier/graphql-jpa) ⭐ 167 | 🐛 12 | 🌐 Java | 📅 2018-06-11: JPA Implementation of GraphQL (builds on graphql-java)
 
@@ -134,7 +134,7 @@
 
 ## Tools
 
-* [JS GraphQL IntelliJ Plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin) ⭐ 898 | 🐛 157 | 🌐 Java | 📅 2026-08-12: GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based on the IntelliJ Platform.
+* [JS GraphQL IntelliJ Plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin) ⭐ 898 | 🐛 157 | 🌐 Java | 📅 2026-08-13: GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based on the IntelliJ Platform.
 * [graphql-calculator](https://github.com/graphql-calculator/graphql-calculator) ⭐ 111 | 🐛 18 | 🌐 Java | 📅 2026-03-10 - A lightweight graphql calculation engine, implemented based on directive.
 
 ## License
@@ -145,4 +145,4 @@ To the extent possible under law, the [contributors](https://github.com/graphql-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

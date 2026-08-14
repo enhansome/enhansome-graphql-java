@@ -67,7 +67,7 @@
             "last_commit": "2026-08-02T10:51:15Z",
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-tools",
-            "stars": 822
+            "stars": 823
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2023-06-13T22:58:03Z",
             "owner": "google",
             "repo": "rejoiner",
-            "stars": 3660
+            "stars": 3659
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2023-12-19T08:55:12Z",
             "owner": "graphql-java-kickstart",
             "repo": "graphql-spring-boot",
-            "stars": 1506
+            "stars": 1505
           }
         },
         {
@@ -586,7 +586,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T04:09:56Z",
+            "last_commit": "2026-08-13T04:31:48Z",
             "owner": "networknt",
             "repo": "light-graphql-4j",
             "stars": 37
@@ -668,7 +668,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T14:54:29Z",
+            "last_commit": "2026-08-13T11:45:41Z",
             "owner": "JetBrains",
             "repo": "js-graphql-intellij-plugin",
             "stars": 898
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:20:27.068Z",
+    "last_updated": "2026-08-14T00:01:13.244Z",
     "original_repository": "graphql-java/awesome-graphql-java",
     "original_repository_sha": "8461af25d30cde8eae8789b1cea451e5edc2036d",
     "enhanced_repository": "enhansome/enhansome-graphql-java",
