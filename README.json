@@ -668,7 +668,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T11:45:41Z",
+            "last_commit": "2026-08-15T11:36:06Z",
             "owner": "JetBrains",
             "repo": "js-graphql-intellij-plugin",
             "stars": 898
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:41:12.227Z",
+    "last_updated": "2026-08-15T23:36:26.472Z",
     "original_repository": "graphql-java/awesome-graphql-java",
     "original_repository_sha": "8461af25d30cde8eae8789b1cea451e5edc2036d",
     "enhanced_repository": "enhansome/enhansome-graphql-java",

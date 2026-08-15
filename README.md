@@ -2,7 +2,7 @@
 
 > Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,221 | 🐛 39 | 🌐 Java | 📅 2026-08-14
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,786 | 🐛 100 | 📅 2026-06-30 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,137 | 🐛 100 | 📅 2026-06-30 list thing.*
 
 ## Official Spring integration
 
@@ -124,7 +124,7 @@
 
 ## Batch Loading
 
-* [java-dataloader](https://github.com/graphql-java/java-dataloader) ⭐ 524 | 🐛 17 | 🌐 Java | 📅 2026-08-03: A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) ⭐ 13,390 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-11
+* [java-dataloader](https://github.com/graphql-java/java-dataloader) ⭐ 524 | 🐛 17 | 🌐 Java | 📅 2026-08-03: A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) ⭐ 13,389 | 🐛 44 | 🌐 JavaScript | 📅 2026-08-11
 
 ## Scalars
 
@@ -134,7 +134,7 @@
 
 ## Tools
 
-* [JS GraphQL IntelliJ Plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin) ⭐ 898 | 🐛 157 | 🌐 Java | 📅 2026-08-13: GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based on the IntelliJ Platform.
+* [JS GraphQL IntelliJ Plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin) ⭐ 898 | 🐛 157 | 🌐 Java | 📅 2026-08-15: GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based on the IntelliJ Platform.
 * [graphql-calculator](https://github.com/graphql-calculator/graphql-calculator) ⭐ 111 | 🐛 18 | 🌐 Java | 📅 2026-03-10 - A lightweight graphql calculation engine, implemented based on directive.
 
 ## License
@@ -145,4 +145,4 @@ To the extent possible under law, the [contributors](https://github.com/graphql-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
