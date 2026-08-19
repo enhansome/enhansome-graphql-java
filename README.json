@@ -27,7 +27,7 @@
             "archived": false,
             "id": 96673192,
             "language": "Java",
-            "last_commit": "2026-08-12T07:00:09Z",
+            "last_commit": "2026-08-19T16:04:21Z",
             "owner": "tailrocks",
             "repo": "graphql-java-datetime",
             "stars": 154
@@ -327,7 +327,7 @@
                 "archived": false,
                 "id": 179494421,
                 "language": "Java",
-                "last_commit": "2026-08-19T11:50:25Z",
+                "last_commit": "2026-08-19T12:34:11Z",
                 "owner": "smallrye",
                 "repo": "smallrye-graphql",
                 "stars": 176
@@ -524,7 +524,7 @@
             "archived": false,
             "id": 56257169,
             "language": "Java",
-            "last_commit": "2026-08-19T07:42:02Z",
+            "last_commit": "2026-08-19T22:16:10Z",
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
             "stars": 228
@@ -539,7 +539,7 @@
             "archived": false,
             "id": 161447804,
             "language": "Java",
-            "last_commit": "2026-08-18T19:39:57Z",
+            "last_commit": "2026-08-19T21:45:10Z",
             "owner": "micronaut-projects",
             "repo": "micronaut-graphql",
             "stars": 88
@@ -695,7 +695,7 @@
             "archived": false,
             "id": 96673192,
             "language": "Java",
-            "last_commit": "2026-08-12T07:00:09Z",
+            "last_commit": "2026-08-19T16:04:21Z",
             "owner": "tailrocks",
             "repo": "graphql-java-datetime",
             "stars": 154
@@ -716,7 +716,7 @@
             "archived": false,
             "id": 47924453,
             "language": "Java",
-            "last_commit": "2026-08-18T03:29:53Z",
+            "last_commit": "2026-08-19T19:20:04Z",
             "owner": "JetBrains",
             "repo": "js-graphql-intellij-plugin",
             "stars": 898
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:30:35.470Z",
+    "last_updated": "2026-08-19T23:40:35.151Z",
     "original_repository": "graphql-java/awesome-graphql-java",
     "original_repository_id": 90590303,
     "original_repository_sha": "8461af25d30cde8eae8789b1cea451e5edc2036d",
