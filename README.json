@@ -267,7 +267,7 @@
                 "archived": false,
                 "id": 148706161,
                 "language": "Kotlin",
-                "last_commit": "2026-08-20T22:30:04Z",
+                "last_commit": "2026-08-21T15:16:27Z",
                 "owner": "ExpediaGroup",
                 "repo": "graphql-kotlin",
                 "stars": 1802
@@ -327,7 +327,7 @@
                 "archived": false,
                 "id": 179494421,
                 "language": "Java",
-                "last_commit": "2026-08-20T19:35:27Z",
+                "last_commit": "2026-08-21T19:36:14Z",
                 "owner": "smallrye",
                 "repo": "smallrye-graphql",
                 "stars": 176
@@ -524,7 +524,7 @@
             "archived": false,
             "id": 56257169,
             "language": "Java",
-            "last_commit": "2026-08-20T18:59:53Z",
+            "last_commit": "2026-08-21T22:29:33Z",
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
             "stars": 228
@@ -539,7 +539,7 @@
             "archived": false,
             "id": 161447804,
             "language": "Java",
-            "last_commit": "2026-08-20T23:30:33Z",
+            "last_commit": "2026-08-21T21:16:01Z",
             "owner": "micronaut-projects",
             "repo": "micronaut-graphql",
             "stars": 88
@@ -716,7 +716,7 @@
             "archived": false,
             "id": 47924453,
             "language": "Java",
-            "last_commit": "2026-08-20T10:17:04Z",
+            "last_commit": "2026-08-21T08:39:13Z",
             "owner": "JetBrains",
             "repo": "js-graphql-intellij-plugin",
             "stars": 898
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:43:02.415Z",
+    "last_updated": "2026-08-21T23:41:53.067Z",
     "original_repository": "graphql-java/awesome-graphql-java",
     "original_repository_id": 90590303,
     "original_repository_sha": "8461af25d30cde8eae8789b1cea451e5edc2036d",
