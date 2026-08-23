@@ -65,7 +65,7 @@
                 "archived": false,
                 "id": 81460205,
                 "language": "Kotlin",
-                "last_commit": "2026-08-16T20:33:44Z",
+                "last_commit": "2026-08-23T17:31:26Z",
                 "owner": "graphql-java-kickstart",
                 "repo": "graphql-java-tools",
                 "stars": 823
@@ -524,7 +524,7 @@
             "archived": false,
             "id": 56257169,
             "language": "Java",
-            "last_commit": "2026-08-22T20:50:02Z",
+            "last_commit": "2026-08-23T22:41:11Z",
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
             "stars": 228
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T23:38:02.024Z",
+    "last_updated": "2026-08-23T23:37:48.083Z",
     "original_repository": "graphql-java/awesome-graphql-java",
     "original_repository_id": 90590303,
     "original_repository_sha": "8461af25d30cde8eae8789b1cea451e5edc2036d",
