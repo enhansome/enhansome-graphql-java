@@ -65,7 +65,7 @@
                 "archived": false,
                 "id": 81460205,
                 "language": "Kotlin",
-                "last_commit": "2026-08-23T17:31:26Z",
+                "last_commit": "2026-08-24T03:39:11Z",
                 "owner": "graphql-java-kickstart",
                 "repo": "graphql-java-tools",
                 "stars": 823
@@ -270,7 +270,7 @@
                 "last_commit": "2026-08-21T15:16:27Z",
                 "owner": "ExpediaGroup",
                 "repo": "graphql-kotlin",
-                "stars": 1802
+                "stars": 1803
               }
             },
             {
@@ -524,7 +524,7 @@
             "archived": false,
             "id": 56257169,
             "language": "Java",
-            "last_commit": "2026-08-23T22:41:11Z",
+            "last_commit": "2026-08-24T02:13:54Z",
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
             "stars": 228
@@ -673,6 +673,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "graphql-java-extended-validation",
+          "description": "A validation library that allows use of @directives to indicate how to validate graphql input arguments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 205507809,
+            "language": "Java",
+            "last_commit": "2026-02-02T16:29:45Z",
+            "owner": "graphql-java",
+            "repo": "graphql-java-extended-validation",
+            "stars": 138
+          }
+        }
+      ],
+      "title": "Validation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "java-dataloader",
+          "description": "A pure java 8 port of Facebook DataLoader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97364654,
+            "language": "Java",
+            "last_commit": "2026-08-20T22:14:56Z",
+            "owner": "graphql-java",
+            "repo": "java-dataloader",
+            "stars": 524
+          }
+        }
+      ],
+      "title": "Batch Loading"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "graphql-java-extended-scalars",
           "description": "A series extended scalars for graphql-java based projects, brought you you by the same team that helps build graphql-java itself",
           "children": [],
@@ -716,7 +758,7 @@
             "archived": false,
             "id": 47924453,
             "language": "Java",
-            "last_commit": "2026-08-21T08:39:13Z",
+            "last_commit": "2026-08-24T02:06:29Z",
             "owner": "JetBrains",
             "repo": "js-graphql-intellij-plugin",
             "stars": 898
@@ -742,7 +784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:37:48.083Z",
+    "last_updated": "2026-08-24T14:22:13.209Z",
     "original_repository": "graphql-java/awesome-graphql-java",
     "original_repository_id": 90590303,
     "original_repository_sha": "8461af25d30cde8eae8789b1cea451e5edc2036d",
