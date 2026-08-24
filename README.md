@@ -2,7 +2,7 @@
 
 > Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,222 | 🐛 39 | 🌐 Java | 📅 2026-08-24
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,516 | 🐛 106 | 📅 2026-08-21 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,613 | 🐛 106 | 📅 2026-08-21 list thing.*
 
 ## Official Spring integration
 
@@ -11,7 +11,7 @@
 ## Examples
 
 * [spring-petclinic-graphql](https://github.com/spring-petclinic/spring-petclinic-graphql) ⭐ 214 | 🐛 1 | 🌐 JavaScript | 📅 2023-11-26: Port of the Spring PetClinic to Spring Boot, graphql-java and graphql-spring-boot-starter (using React Apollo in the frontend)
-* [graphql-datetime-sample-app](https://github.com/donbeave/graphql-java-datetime/tree/master/graphql-datetime-sample-app) ⭐ 154 | 🐛 4 | 🌐 Java | 📅 2026-08-19: GraphQL example app with usage of date and time scalars
+* [graphql-datetime-sample-app](https://github.com/donbeave/graphql-java-datetime/tree/master/graphql-datetime-sample-app) ⭐ 154 | 🐛 5 | 🌐 Java | 📅 2026-08-24: GraphQL example app with usage of date and time scalars
 * [todomvc-relay-java](https://github.com/graphql-java/todomvc-relay-java) ⭐ 68 | 🐛 4 | 🌐 Java | 📅 2017-11-28: Port of the Relay TodoMVC example to a java backend
 
 ## Schema Libraries
@@ -60,7 +60,7 @@
 
 * [graphql-jpa-query](https://github.com/introproventures/graphql-jpa-query) ⭐ 207 | 🐛 61 | 🌐 Java | 📅 2026-03-24: GraphQL Query Api for JPA 2.1 Entity Models
 
-* [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql) ⭐ 176 | 🐛 149 | 🌐 Java | 📅 2026-08-21: An implementation of the above mentioned Specification used in [Quarkus](https://quarkus.io/blog/quarkus-1-5-final-released/) and [OpenLiberty](https://openliberty.io/blog/2020/06/05/graphql-open-liberty-20006.html)
+* [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql) ⭐ 176 | 🐛 152 | 🌐 Java | 📅 2026-08-24: An implementation of the above mentioned Specification used in [Quarkus](https://quarkus.io/blog/quarkus-1-5-final-released/) and [OpenLiberty](https://openliberty.io/blog/2020/06/05/graphql-open-liberty-20006.html)
 
 * [graphql-jpa](https://github.com/jcrygier/graphql-jpa) ⭐ 166 | 🐛 12 | 🌐 Java | 📅 2018-06-11: JPA Implementation of GraphQL (builds on graphql-java)
 
@@ -128,9 +128,9 @@
 
 ## Scalars
 
-* [graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) ⭐ 289 | 🐛 5 | 🌐 Java | 📅 2026-08-19: A series extended scalars for graphql-java based projects, brought you you by the same team that helps build graphql-java itself
+* [graphql-java-extended-scalars](https://github.com/graphql-java/graphql-java-extended-scalars) ⭐ 289 | 🐛 5 | 🌐 Java | 📅 2026-08-24: A series extended scalars for graphql-java based projects, brought you you by the same team that helps build graphql-java itself
 
-* [graphql-java-datetime](https://github.com/donbeave/graphql-java-datetime) ⭐ 154 | 🐛 4 | 🌐 Java | 📅 2026-08-19: A set of ISO 33601, RFC 3339 compatible date time scalars for GraphQL Java
+* [graphql-java-datetime](https://github.com/donbeave/graphql-java-datetime) ⭐ 154 | 🐛 5 | 🌐 Java | 📅 2026-08-24: A set of ISO 33601, RFC 3339 compatible date time scalars for GraphQL Java
 
 ## Tools
 

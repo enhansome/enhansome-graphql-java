@@ -27,7 +27,7 @@
             "archived": false,
             "id": 96673192,
             "language": "Java",
-            "last_commit": "2026-08-19T16:04:21Z",
+            "last_commit": "2026-08-24T20:37:53Z",
             "owner": "tailrocks",
             "repo": "graphql-java-datetime",
             "stars": 154
@@ -327,7 +327,7 @@
                 "archived": false,
                 "id": 179494421,
                 "language": "Java",
-                "last_commit": "2026-08-21T19:36:14Z",
+                "last_commit": "2026-08-24T19:36:33Z",
                 "owner": "smallrye",
                 "repo": "smallrye-graphql",
                 "stars": 176
@@ -722,7 +722,7 @@
             "archived": false,
             "id": 151170934,
             "language": "Java",
-            "last_commit": "2026-08-19T00:28:58Z",
+            "last_commit": "2026-08-24T16:53:05Z",
             "owner": "graphql-java",
             "repo": "graphql-java-extended-scalars",
             "stars": 289
@@ -737,7 +737,7 @@
             "archived": false,
             "id": 96673192,
             "language": "Java",
-            "last_commit": "2026-08-19T16:04:21Z",
+            "last_commit": "2026-08-24T20:37:53Z",
             "owner": "tailrocks",
             "repo": "graphql-java-datetime",
             "stars": 154
@@ -758,7 +758,7 @@
             "archived": false,
             "id": 47924453,
             "language": "Java",
-            "last_commit": "2026-08-24T02:06:29Z",
+            "last_commit": "2026-08-24T15:39:24Z",
             "owner": "JetBrains",
             "repo": "js-graphql-intellij-plugin",
             "stars": 898
@@ -784,7 +784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:22:13.209Z",
+    "last_updated": "2026-08-24T23:39:58.550Z",
     "original_repository": "graphql-java/awesome-graphql-java",
     "original_repository_id": 90590303,
     "original_repository_sha": "8461af25d30cde8eae8789b1cea451e5edc2036d",
