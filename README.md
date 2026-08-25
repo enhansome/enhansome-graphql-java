@@ -2,7 +2,7 @@
 
 > Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,222 | 🐛 39 | 🌐 Java | 📅 2026-08-24
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,613 | 🐛 106 | 📅 2026-08-21 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,704 | 🐛 106 | 📅 2026-08-21 list thing.*
 
 ## Official Spring integration
 
@@ -54,7 +54,7 @@
 
 * [graphql-kotlin](https://github.com/ExpediaDotCom/graphql-kotlin) ⭐ 1,803 | 🐛 83 | 🌐 Kotlin | 📅 2026-08-21: Code-only GraphQL schema generation for Kotlin
 
-* [GraphQL-SPQR](https://github.com/leangen/GraphQL-SPQR) ⭐ 1,103 | 🐛 90 | 🌐 Java | 📅 2026-01-27: Java 8+ API for rapid development of GraphQL services
+* [GraphQL-SPQR](https://github.com/leangen/GraphQL-SPQR) ⭐ 1,102 | 🐛 90 | 🌐 Java | 📅 2026-01-27: Java 8+ API for rapid development of GraphQL services
 
 * [graphql-java-annotations](https://github.com/graphql-java/graphql-java-annotations) ⭐ 392 | 🐛 5 | 🌐 Java | 📅 2025-10-03: Annotations-based syntax for GraphQL schema definition.
 
@@ -134,7 +134,7 @@
 
 ## Tools
 
-* [JS GraphQL IntelliJ Plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin) ⭐ 898 | 🐛 157 | 🌐 Java | 📅 2026-08-24: GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based on the IntelliJ Platform.
+* [JS GraphQL IntelliJ Plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin) ⭐ 898 | 🐛 157 | 🌐 Java | 📅 2026-08-25: GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based on the IntelliJ Platform.
 * [graphql-calculator](https://github.com/graphql-calculator/graphql-calculator) ⭐ 111 | 🐛 18 | 🌐 Java | 📅 2026-03-10 - A lightweight graphql calculation engine, implemented based on directive.
 
 ## License
@@ -145,4 +145,4 @@ To the extent possible under law, the [contributors](https://github.com/graphql-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

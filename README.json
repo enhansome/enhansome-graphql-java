@@ -285,7 +285,7 @@
                 "last_commit": "2026-01-27T15:51:15Z",
                 "owner": "leangen",
                 "repo": "graphql-spqr",
-                "stars": 1103
+                "stars": 1102
               }
             },
             {
@@ -758,7 +758,7 @@
             "archived": false,
             "id": 47924453,
             "language": "Java",
-            "last_commit": "2026-08-24T15:39:24Z",
+            "last_commit": "2026-08-25T03:27:44Z",
             "owner": "JetBrains",
             "repo": "js-graphql-intellij-plugin",
             "stars": 898
@@ -784,7 +784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:39:58.550Z",
+    "last_updated": "2026-08-25T06:19:31.277Z",
     "original_repository": "graphql-java/awesome-graphql-java",
     "original_repository_id": 90590303,
     "original_repository_sha": "8461af25d30cde8eae8789b1cea451e5edc2036d",
