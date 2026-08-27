@@ -524,7 +524,7 @@
             "archived": false,
             "id": 56257169,
             "language": "Java",
-            "last_commit": "2026-08-27T03:35:18Z",
+            "last_commit": "2026-08-27T05:12:31Z",
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
             "stars": 228
@@ -784,9 +784,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:32:30.818Z",
-    "original_repository": "graphql-java/awesome-graphql-java",
-    "original_repository_id": 90590303,
+    "last_updated": "2026-08-27T11:45:05.260Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 90590303,
+      "language": null,
+      "last_commit": "2023-11-02T02:59:36Z",
+      "owner": "graphql-java",
+      "repo": "awesome-graphql-java",
+      "stars": 592
+    },
     "original_repository_sha": "8461af25d30cde8eae8789b1cea451e5edc2036d",
     "enhanced_repository": "enhansome/enhansome-graphql-java",
     "enhanced_repository_description": null,

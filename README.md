@@ -1,8 +1,8 @@
 # Awesome graphql-java with stars
 
-> Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,223 | 🐛 39 | 🌐 Java | 📅 2026-08-24
+> Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,222 | 🐛 39 | 🌐 Java | 📅 2026-08-24
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,288 | 🐛 105 | 📅 2026-08-21 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,363 | 🐛 105 | 📅 2026-08-21 list thing.*
 
 ## Official Spring integration
 
