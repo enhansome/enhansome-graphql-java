@@ -16,7 +16,8 @@
             "owner": "spring-petclinic",
             "repo": "spring-petclinic-graphql",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "tailrocks",
             "repo": "graphql-java-datetime",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "graphql-java",
             "repo": "todomvc-relay-java",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         }
       ],
       "title": "Examples"
@@ -69,7 +72,8 @@
                 "owner": "graphql-java-kickstart",
                 "repo": "graphql-java-tools",
                 "stars": 823
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -84,7 +88,8 @@
                 "owner": "kobylynskyi",
                 "repo": "graphql-java-codegen",
                 "stars": 298
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "kobylynskyi",
                 "repo": "graphql-java-codegen",
                 "stars": 298
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "graphql-java-generator",
                 "repo": "graphql-maven-plugin-project",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "ermadmi78",
                 "repo": "kobby",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "graph-quilt",
                 "repo": "graphql-orchestrator-java",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -159,7 +168,8 @@
                 "owner": "Distelli",
                 "repo": "graphql-apigen",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -174,7 +184,8 @@
                 "owner": "ebridges",
                 "repo": "rdbms-to-graphql",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "friatech",
                 "repo": "lilo",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "vimalrajselvam",
                 "repo": "test-graphql-java",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "mstachniuk",
                 "repo": "graphql-schema-from-introspection-generator",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "jxnu-liguobin",
                 "repo": "graphql-java-codegen-sbt-plugin",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             }
           ],
           "description": null,
@@ -256,7 +271,8 @@
                 "owner": "google",
                 "repo": "rejoiner",
                 "stars": 3658
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "ExpediaGroup",
                 "repo": "graphql-kotlin",
                 "stars": 1803
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "leangen",
                 "repo": "graphql-spqr",
                 "stars": 1102
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "Enigmatis",
                 "repo": "graphql-java-annotations",
                 "stars": 392
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -316,7 +335,8 @@
                 "owner": "introproventures",
                 "repo": "graphql-jpa-query",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -327,11 +347,12 @@
                 "archived": false,
                 "id": 179494421,
                 "language": "Java",
-                "last_commit": "2026-08-26T05:53:04Z",
+                "last_commit": "2026-08-27T19:34:49Z",
                 "owner": "smallrye",
                 "repo": "smallrye-graphql",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -346,7 +367,8 @@
                 "owner": "jcrygier",
                 "repo": "graphql-jpa",
                 "stars": 166
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -361,7 +383,8 @@
                 "owner": "yandooo",
                 "repo": "spring-graphql-common",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -376,7 +399,8 @@
                 "owner": "microprofile",
                 "repo": "microprofile-graphql",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -391,7 +415,8 @@
                 "owner": "bpatters",
                 "repo": "schemagen-graphql",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -406,7 +431,8 @@
                 "owner": "beyondeye",
                 "repo": "graphkool",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -421,7 +447,8 @@
                 "owner": "hallvard",
                 "repo": "graphql-emf",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -436,7 +463,8 @@
                 "owner": "graphqly",
                 "repo": "vertx-graphql-client",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             },
             {
               "node_type": "item",
@@ -451,7 +479,8 @@
                 "owner": "graphqly",
                 "repo": "graphql-reflector",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T06:56:59.087Z"
             }
           ],
           "description": null,
@@ -477,7 +506,8 @@
             "owner": "bsideup",
             "repo": "graphql-java-reactive",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -492,7 +522,8 @@
             "owner": "nfl",
             "repo": "graphql-rxjava",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         }
       ],
       "title": "Execution Strategies"
@@ -513,7 +544,8 @@
             "owner": "graphql-java-kickstart",
             "repo": "graphql-spring-boot",
             "stars": 1504
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -524,11 +556,12 @@
             "archived": false,
             "id": 56257169,
             "language": "Java",
-            "last_commit": "2026-08-27T05:12:31Z",
+            "last_commit": "2026-08-28T00:00:12Z",
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
             "stars": 228
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -539,11 +572,12 @@
             "archived": false,
             "id": 161447804,
             "language": "Java",
-            "last_commit": "2026-08-27T04:10:04Z",
+            "last_commit": "2026-08-27T16:56:18Z",
             "owner": "micronaut-projects",
             "repo": "micronaut-graphql",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -558,7 +592,8 @@
             "owner": "grails",
             "repo": "grails-data-graphql",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -573,7 +608,8 @@
             "owner": "runabol",
             "repo": "graffiti",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -588,7 +624,8 @@
             "owner": "smoketurner",
             "repo": "dropwizard-graphql",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -603,7 +640,8 @@
             "owner": "runabol",
             "repo": "spring-boot-starter-graphql",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -618,7 +656,8 @@
             "owner": "timtebeek",
             "repo": "graphql-jpa-spring-boot-starter",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -633,7 +672,8 @@
             "owner": "networknt",
             "repo": "light-graphql-4j",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -648,7 +688,8 @@
             "owner": "tibor-kocsis",
             "repo": "vertx-graphql-utils",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -663,7 +704,8 @@
             "owner": "shendepu",
             "repo": "moqui-graphql",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         }
       ],
       "title": "Exposing a Schema"
@@ -684,7 +726,8 @@
             "owner": "graphql-java",
             "repo": "graphql-java-extended-validation",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         }
       ],
       "title": "Validation"
@@ -705,7 +748,8 @@
             "owner": "graphql-java",
             "repo": "java-dataloader",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         }
       ],
       "title": "Batch Loading"
@@ -726,7 +770,8 @@
             "owner": "graphql-java",
             "repo": "graphql-java-extended-scalars",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -741,7 +786,8 @@
             "owner": "tailrocks",
             "repo": "graphql-java-datetime",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         }
       ],
       "title": "Scalars"
@@ -762,7 +808,8 @@
             "owner": "JetBrains",
             "repo": "js-graphql-intellij-plugin",
             "stars": 898
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         },
         {
           "node_type": "item",
@@ -777,14 +824,15 @@
             "owner": "graphql-calculator",
             "repo": "graphql-calculator",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T06:56:59.087Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:45:05.260Z",
+    "last_updated": "2026-08-28T06:56:59.087Z",
     "original_repository_info": {
       "archived": false,
       "id": 90590303,
