@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PetClinic Example based on GraphQL",
+            "homepage": null,
             "id": 100310106,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-26T11:42:21Z",
+            "open_issues": 1,
             "owner": "spring-petclinic",
             "repo": "spring-petclinic-graphql",
-            "stars": 214
+            "stars": 214,
+            "topics": [
+              "graphql",
+              "react",
+              "spring",
+              "spring-boot",
+              "spring-graphql"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -26,12 +37,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GraphQL ISO Date is a set of RFC 3339 compliant date/time scalar types to be used with graphql-java.",
+            "homepage": null,
             "id": 96673192,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T20:37:53Z",
+            "open_issues": 5,
             "owner": "tailrocks",
             "repo": "graphql-java-datetime",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "date",
+              "datetime",
+              "graphql",
+              "graphql-java",
+              "scalars",
+              "time"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -42,12 +65,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Relay TodoMVC with Java Backend",
+            "homepage": null,
             "id": 40843550,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-11-28T02:08:46Z",
+            "open_issues": 4,
             "owner": "graphql-java",
             "repo": "todomvc-relay-java",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "graphql",
+              "graphql-java",
+              "todomvc"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         }
@@ -66,12 +98,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A schema-first tool for graphql-java inspired by graphql-tools for JS",
+                "homepage": "https://www.graphql-java-kickstart.com/tools/",
                 "id": 81460205,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2026-08-25T14:50:56Z",
+                "open_issues": 92,
                 "owner": "graphql-java-kickstart",
                 "repo": "graphql-java-tools",
-                "stars": 823
+                "stars": 823,
+                "topics": [
+                  "graphql",
+                  "graphql-java",
+                  "java",
+                  "jvm",
+                  "kotlin",
+                  "spring-boot"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -82,12 +126,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make your GraphQL Java application schema-driven.",
+                "homepage": "https://kobylynskyi.github.io/graphql-java-codegen/",
                 "id": 204753751,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-01T16:42:56Z",
+                "open_issues": 90,
                 "owner": "kobylynskyi",
                 "repo": "graphql-java-codegen",
-                "stars": 298
+                "stars": 298,
+                "topics": [
+                  "codegen",
+                  "graphql",
+                  "graphql-codegen",
+                  "graphql-gradle",
+                  "graphql-java",
+                  "graphql-kotlin",
+                  "graphql-maven",
+                  "graphql-scala"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -98,12 +156,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make your GraphQL Java application schema-driven.",
+                "homepage": "https://kobylynskyi.github.io/graphql-java-codegen/",
                 "id": 204753751,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-01T16:42:56Z",
+                "open_issues": 90,
                 "owner": "kobylynskyi",
                 "repo": "graphql-java-codegen",
-                "stars": 298
+                "stars": 298,
+                "topics": [
+                  "codegen",
+                  "graphql",
+                  "graphql-codegen",
+                  "graphql-gradle",
+                  "graphql-java",
+                  "graphql-kotlin",
+                  "graphql-maven",
+                  "graphql-scala"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -114,12 +186,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "graphql-maven-plugin is a Maven Plugin for GraphQL, based on graphql-java. It accelerates the development for both the client and the server, by generating the Java code. It allows a quicker development when in contract-first approach, by avoiding to code the boilerplate code.",
+                "homepage": "https://graphql-maven-plugin-project.graphql-java-generator.com",
                 "id": 176287522,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-27T22:47:45Z",
+                "open_issues": 2,
                 "owner": "graphql-java-generator",
                 "repo": "graphql-maven-plugin-project",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -130,12 +207,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kobby is a codegen plugin of Kotlin DSL Client by GraphQL schema. The generated DSL supports execution of complex GraphQL queries, mutation and subscriptions in Kotlin with syntax similar to native GraphQL syntax.",
+                "homepage": null,
                 "id": 304932615,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-17T11:09:51Z",
+                "open_issues": 1,
                 "owner": "ermadmi78",
                 "repo": "kobby",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "client",
+                  "code-generation",
+                  "dsl",
+                  "gradle",
+                  "gradle-plugin",
+                  "graphql",
+                  "graphql-client",
+                  "graphql-schema",
+                  "graphql-subscriptions",
+                  "kotlin",
+                  "kotlin-dsl",
+                  "kotlin-multiplatform",
+                  "kotlin-native",
+                  "maven",
+                  "maven-plugin",
+                  "multiplatform",
+                  "plugin"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -146,12 +246,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphQL Orchestrator stitches the schemas from multiple micro-services and orchestrates the graphql queries to these services accurately at runtime",
+                "homepage": "https://graph-quilt.github.io",
                 "id": 376136959,
                 "language": "Groovy",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-29T07:15:28Z",
+                "open_issues": 14,
                 "owner": "graph-quilt",
                 "repo": "graphql-orchestrator-java",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "federation",
+                  "gateway",
+                  "graphql",
+                  "graphql-gateway",
+                  "graphql-java",
+                  "graphql-server",
+                  "hacktoberfest",
+                  "hacktoberfest2023",
+                  "orchestrator",
+                  "stitching"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -162,12 +278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate Java APIs with GraphQL Schemas",
+                "homepage": null,
                 "id": 74189838,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-23T16:53:46Z",
+                "open_issues": 18,
                 "owner": "Distelli",
                 "repo": "graphql-apigen",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -178,12 +299,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Java CLI program that generates a GraphQL schema from a JDBC data source.",
+                "homepage": null,
                 "id": 99234308,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2018-07-08T22:26:48Z",
+                "open_issues": 2,
                 "owner": "ebridges",
                 "repo": "rdbms-to-graphql",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "graphql",
+                  "java",
+                  "rdbms",
+                  "schema",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -194,12 +326,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lilo is a super-fast, easy-to-use, configurable GraphQL stitching library",
+                "homepage": null,
                 "id": 476715962,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-26T10:54:09Z",
+                "open_issues": 4,
                 "owner": "friatech",
                 "repo": "lilo",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "graphql",
+                  "graphql-java",
+                  "graphql-stitching",
+                  "java",
+                  "stitching"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -210,12 +353,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy Graphql Testing in Java",
+                "homepage": null,
                 "id": 189695189,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-11-13T16:42:30Z",
+                "open_issues": 2,
                 "owner": "vimalrajselvam",
                 "repo": "test-graphql-java",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "api-testing",
+                  "graphql",
+                  "graphql-java",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -226,12 +379,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphQL Schema from Introspection generator",
+                "homepage": null,
                 "id": 138711950,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2021-04-07T21:39:01Z",
+                "open_issues": 2,
                 "owner": "mstachniuk",
                 "repo": "graphql-schema-from-introspection-generator",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "api",
+                  "graphql",
+                  "java",
+                  "kotlin"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -242,12 +405,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "SBT plugin for graphql-java-codegen",
+                "homepage": "https://search.maven.org/artifact/io.github.jxnu-liguobin/graphql-codegen-sbt-plugin",
                 "id": 289406733,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-02-25T13:09:14Z",
+                "open_issues": 0,
                 "owner": "jxnu-liguobin",
                 "repo": "graphql-java-codegen-sbt-plugin",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "codegen",
+                  "graphql",
+                  "graphql-java",
+                  "sbt",
+                  "sbt-plugin"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             }
@@ -265,12 +439,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources",
+                "homepage": "https://google.github.io/rejoiner/",
                 "id": 113356740,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-13T22:58:03Z",
+                "open_issues": 48,
                 "owner": "google",
                 "repo": "rejoiner",
-                "stars": 3658
+                "stars": 3658,
+                "topics": [
+                  "graphql",
+                  "graphql-server",
+                  "grpc",
+                  "protobuf"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -281,12 +465,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Libraries for running GraphQL in Kotlin",
+                "homepage": "https://opensource.expediagroup.com/graphql-kotlin/",
                 "id": 148706161,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T15:16:27Z",
+                "open_issues": 83,
                 "owner": "ExpediaGroup",
                 "repo": "graphql-kotlin",
-                "stars": 1803
+                "stars": 1803,
+                "topics": [
+                  "federation",
+                  "graphql",
+                  "graphql-client",
+                  "graphql-java",
+                  "graphql-plugin",
+                  "graphql-server",
+                  "kotlin",
+                  "oss-portal-featured",
+                  "schema-generator"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -297,12 +496,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build a GraphQL service in seconds",
+                "homepage": null,
                 "id": 65308934,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-27T15:51:15Z",
+                "open_issues": 91,
                 "owner": "leangen",
                 "repo": "graphql-spqr",
-                "stars": 1102
+                "stars": 1102,
+                "topics": [
+                  "graphql",
+                  "graphql-api",
+                  "graphql-server",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -313,12 +522,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphQL Annotations for Java",
+                "homepage": null,
                 "id": 54271337,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-03T08:55:43Z",
+                "open_issues": 5,
                 "owner": "Enigmatis",
                 "repo": "graphql-java-annotations",
-                "stars": 392
+                "stars": 392,
+                "topics": [
+                  "graphql",
+                  "graphql-annotations",
+                  "graphql-java"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -329,12 +547,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate GraphQL Query Api for your JPA Entity Models ",
+                "homepage": "https://github.com/introproventures/graphql-jpa-query",
                 "id": 103899317,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-24T21:34:02Z",
+                "open_issues": 61,
                 "owner": "introproventures",
                 "repo": "graphql-jpa-query",
-                "stars": 208
+                "stars": 208,
+                "topics": [
+                  "graphql-java",
+                  "graphql-query",
+                  "graphql-schema",
+                  "jpa-entity-model",
+                  "jpa-query",
+                  "schema-generation"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -345,12 +575,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation for MicroProfile GraphQL",
+                "homepage": null,
                 "id": 179494421,
                 "language": "Java",
-                "last_commit": "2026-08-27T19:34:49Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T19:34:35Z",
+                "open_issues": 136,
                 "owner": "smallrye",
                 "repo": "smallrye-graphql",
-                "stars": 176
+                "stars": 176,
+                "topics": [
+                  "microprofile"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -361,12 +598,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JPA Implementation of GraphQL (builds on graphql-java)",
+                "homepage": null,
                 "id": 42683851,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2018-06-11T15:56:49Z",
+                "open_issues": 12,
                 "owner": "jcrygier",
                 "repo": "graphql-jpa",
-                "stars": 166
+                "stars": 166,
+                "topics": [
+                  "graphql",
+                  "graphql-server",
+                  "jpa"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -377,12 +623,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spring Framework GraphQL Library",
+                "homepage": null,
                 "id": 54338120,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2017-03-23T10:35:19Z",
+                "open_issues": 9,
                 "owner": "yandooo",
                 "repo": "spring-graphql-common",
-                "stars": 134
+                "stars": 134,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -393,12 +644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "microprofile-graphql",
+                "homepage": null,
                 "id": 178922614,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T03:40:55Z",
+                "open_issues": 79,
                 "owner": "microprofile",
                 "repo": "microprofile-graphql",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -409,12 +665,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphQL-Java add-on that adds support for Schema Generation & Execution for enterprise level applications.",
+                "homepage": null,
                 "id": 50132488,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2018-09-14T12:49:08Z",
+                "open_issues": 11,
                 "owner": "bpatters",
                 "repo": "schemagen-graphql",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -425,12 +686,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphQl-java  utilities in kotlin",
+                "homepage": null,
                 "id": 75913771,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2016-12-29T07:59:23Z",
+                "open_issues": 1,
                 "owner": "beyondeye",
                 "repo": "graphkool",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -441,12 +707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GraphQL support for EMF-based models and data",
+                "homepage": null,
                 "id": 103261105,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-10-13T06:23:24Z",
+                "open_issues": 0,
                 "owner": "hallvard",
                 "repo": "graphql-emf",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -457,12 +728,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An elegant implementation for code-first GraphQL clients",
+                "homepage": null,
                 "id": 237759842,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-15T22:52:47Z",
+                "open_issues": 1,
                 "owner": "graphqly",
                 "repo": "vertx-graphql-client",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "code-first",
+                  "graphql",
+                  "graphql-reflector"
+                ]
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             },
@@ -473,12 +753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple GraphQL reflection library for Java code-first applications.",
+                "homepage": null,
                 "id": 237756575,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-01-15T22:52:40Z",
+                "open_issues": 2,
                 "owner": "graphqly",
                 "repo": "graphql-reflector",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:59.087Z"
             }
@@ -500,12 +785,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reactive GraphQL execution strategy",
+            "homepage": null,
             "id": 83904496,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2017-08-12T09:48:31Z",
+            "open_issues": 3,
             "owner": "bsideup",
             "repo": "graphql-java-reactive",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "graphql",
+              "graphql-java",
+              "reactive",
+              "reactor",
+              "rxjava"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -516,12 +812,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GraphQL RxJava",
+            "homepage": null,
             "id": 45798673,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2017-08-15T11:53:39Z",
+            "open_issues": 4,
             "owner": "nfl",
             "repo": "graphql-rxjava",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         }
@@ -538,12 +839,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GraphQL and GraphiQL Spring Framework Boot Starters - Forked from oembedler/graphql-spring-boot due to inactivity.",
+            "homepage": "https://www.graphql-java-kickstart.com/spring-boot/",
             "id": 85368313,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-12-19T08:55:12Z",
+            "open_issues": 74,
             "owner": "graphql-java-kickstart",
             "repo": "graphql-spring-boot",
-            "stars": 1504
+            "stars": 1504,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -554,12 +860,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Servlet endpoint for GraphQL Java",
+            "homepage": "https://graphql-java-kickstart.github.io/servlet/",
             "id": 56257169,
             "language": "Java",
-            "last_commit": "2026-08-28T00:00:12Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:12:58Z",
+            "open_issues": 23,
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
-            "stars": 228
+            "stars": 229,
+            "topics": [
+              "graphql",
+              "graphql-java"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -570,12 +884,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repository for Micronaut and GraphQL integrations",
+            "homepage": null,
             "id": 161447804,
             "language": "Java",
-            "last_commit": "2026-08-27T16:56:18Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:47:38Z",
+            "open_issues": 28,
             "owner": "micronaut-projects",
             "repo": "micronaut-graphql",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "community-driven"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -586,12 +907,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An automatic GraphQL schema generator for GORM",
+            "homepage": null,
             "id": 92954784,
             "language": null,
+            "license": null,
             "last_commit": "2025-03-09T02:37:27Z",
+            "open_issues": 5,
             "owner": "grails",
             "repo": "grails-data-graphql",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -602,12 +928,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Headless Java CMS",
+            "homepage": null,
             "id": 114471178,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2017-12-17T18:02:38Z",
+            "open_issues": 0,
             "owner": "runabol",
             "repo": "graffiti",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "apache2",
+              "graphql",
+              "headless-cms",
+              "java",
+              "postgresql",
+              "spring-boot"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -618,12 +956,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dropwizard GraphQL Bundle",
+            "homepage": null,
             "id": 74578703,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-16T07:02:10Z",
+            "open_issues": 2,
             "owner": "smoketurner",
             "repo": "dropwizard-graphql",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "dropwizard",
+              "dropwizard-graphql",
+              "graphql",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -634,12 +982,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adding GraphQL goodness to Spring Boot apps",
+            "homepage": null,
             "id": 120852192,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-02-11T16:20:57Z",
+            "open_issues": 1,
             "owner": "runabol",
             "repo": "spring-boot-starter-graphql",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "apache2",
+              "graphql",
+              "java",
+              "spring",
+              "spring-boot",
+              "spring-boot-starter"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -650,12 +1010,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Spring Boot starter for GraphQL JPA; Expose JPA entities with GraphQL.",
+            "homepage": null,
             "id": 72110539,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-09-17T09:06:35Z",
+            "open_issues": 1,
             "owner": "timtebeek",
             "repo": "graphql-jpa-spring-boot-starter",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -666,12 +1031,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GraphQL implementation based on light-4j",
+            "homepage": null,
             "id": 85836131,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T04:31:48Z",
+            "open_issues": 10,
             "owner": "networknt",
             "repo": "light-graphql-4j",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "graphql",
+              "graphql-security",
+              "graphql-validator",
+              "java",
+              "relay",
+              "relayjs",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -682,12 +1060,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vert.x GraphQL utils",
+            "homepage": null,
             "id": 101883035,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-05-30T08:46:09Z",
+            "open_issues": 0,
             "owner": "tibor-kocsis",
             "repo": "vertx-graphql-utils",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "graphql",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -698,12 +1084,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Moqui Addon generating GraphQL api based on definition of entity, service and data document",
+            "homepage": "https://www.market47.cn",
             "id": 68899901,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-01-15T22:21:25Z",
+            "open_issues": 2,
             "owner": "shendepu",
             "repo": "moqui-graphql",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "graphql",
+              "graphql-java",
+              "moqui"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         }
@@ -720,12 +1115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Validation library for graphql-java input",
+            "homepage": null,
             "id": 205507809,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-02-02T16:29:45Z",
+            "open_issues": 17,
             "owner": "graphql-java",
             "repo": "graphql-java-extended-validation",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         }
@@ -742,12 +1142,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java 11 port of Facebook DataLoader",
+            "homepage": null,
             "id": 97364654,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T22:14:56Z",
+            "open_issues": 24,
             "owner": "graphql-java",
             "repo": "java-dataloader",
-            "stars": 524
+            "stars": 525,
+            "topics": [
+              "batch",
+              "batch-loader",
+              "dataloader",
+              "facebook-dataloader",
+              "graphql",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         }
@@ -764,12 +1176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of extended scalars for graphql-java",
+            "homepage": null,
             "id": 151170934,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-24T16:53:05Z",
+            "open_issues": 5,
             "owner": "graphql-java",
             "repo": "graphql-java-extended-scalars",
-            "stars": 289
+            "stars": 290,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -780,12 +1197,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GraphQL ISO Date is a set of RFC 3339 compliant date/time scalar types to be used with graphql-java.",
+            "homepage": null,
             "id": 96673192,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T20:37:53Z",
+            "open_issues": 5,
             "owner": "tailrocks",
             "repo": "graphql-java-datetime",
-            "stars": 154
+            "stars": 154,
+            "topics": [
+              "date",
+              "datetime",
+              "graphql",
+              "graphql-java",
+              "scalars",
+              "time"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         }
@@ -802,12 +1231,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based on the IntelliJ Platform.",
+            "homepage": "https://jimkyndemeyer.github.io/js-graphql-intellij-plugin/",
             "id": 47924453,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-26T22:09:42Z",
+            "open_issues": 157,
             "owner": "JetBrains",
             "repo": "js-graphql-intellij-plugin",
-            "stars": 898
+            "stars": 898,
+            "topics": [
+              "apollo",
+              "gql",
+              "graphql",
+              "intellij",
+              "relay",
+              "webstorm"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         },
@@ -818,12 +1259,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight graphql calculation engine, which is used to alter execution behavior of query.",
+            "homepage": null,
             "id": 330305067,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-10T19:05:19Z",
+            "open_issues": 18,
             "owner": "graphql-calculator",
             "repo": "graphql-calculator",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "graphql",
+              "graphql-directive",
+              "graphql-java",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T06:56:59.087Z"
         }
@@ -832,15 +1283,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:56:59.087Z",
+    "last_updated": "2026-08-29T04:12:42.334Z",
     "original_repository_info": {
       "archived": false,
+      "description": "awesome list of graphql-java related projects",
+      "homepage": null,
       "id": 90590303,
       "language": null,
+      "license": null,
       "last_commit": "2023-11-02T02:59:36Z",
+      "open_issues": 2,
       "owner": "graphql-java",
       "repo": "awesome-graphql-java",
-      "stars": 592
+      "stars": 592,
+      "topics": [
+        "awesome-list",
+        "graphql",
+        "graphql-java"
+      ]
     },
     "original_repository_sha": "8461af25d30cde8eae8789b1cea451e5edc2036d",
     "enhanced_repository": "enhansome/enhansome-graphql-java",
