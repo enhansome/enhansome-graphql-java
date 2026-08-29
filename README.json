@@ -135,7 +135,7 @@
                 "open_issues": 90,
                 "owner": "kobylynskyi",
                 "repo": "graphql-java-codegen",
-                "stars": 298,
+                "stars": 299,
                 "topics": [
                   "codegen",
                   "graphql",
@@ -165,7 +165,7 @@
                 "open_issues": 90,
                 "owner": "kobylynskyi",
                 "repo": "graphql-java-codegen",
-                "stars": 298,
+                "stars": 299,
                 "topics": [
                   "codegen",
                   "graphql",
@@ -1283,7 +1283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:12:42.334Z",
+    "last_updated": "2026-08-29T04:40:26.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome list of graphql-java related projects",
