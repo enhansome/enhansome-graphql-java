@@ -865,7 +865,7 @@
             "id": 56257169,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T22:24:09Z",
+            "last_commit": "2026-09-05T04:26:27Z",
             "open_issues": 24,
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
@@ -1283,7 +1283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T01:00:50.122Z",
+    "last_updated": "2026-09-06T01:01:56.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome list of graphql-java related projects",
