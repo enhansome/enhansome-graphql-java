@@ -107,7 +107,7 @@
                 "open_issues": 92,
                 "owner": "graphql-java-kickstart",
                 "repo": "graphql-java-tools",
-                "stars": 823,
+                "stars": 824,
                 "topics": [
                   "graphql",
                   "graphql-java",
@@ -191,8 +191,8 @@
                 "id": 176287522,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-03-27T22:47:45Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-06T20:51:32Z",
+                "open_issues": 1,
                 "owner": "graphql-java-generator",
                 "repo": "graphql-maven-plugin-project",
                 "stars": 131,
@@ -1283,7 +1283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T01:01:56.629Z",
+    "last_updated": "2026-09-07T01:03:38.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome list of graphql-java related projects",
