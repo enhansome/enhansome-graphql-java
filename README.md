@@ -2,7 +2,7 @@
 
 > Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,221 | 🐛 42 | 🌐 Java | 📅 2026-09-01
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,996 | 🐛 106 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,289 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 ## Official Spring integration
 
@@ -24,7 +24,7 @@
 
 * [graphql-java-codegen-gradle-plugin](https://github.com/kobylynskyi/graphql-java-codegen/tree/master/plugins/gradle) ⭐ 299 | 🐛 90 | 🌐 Java | 📅 2026-09-01: Gradle plugin for generating JVM languages(Such as Scala,Kotlin,Java) types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools.
 
-* [GraphQL Java Generator](https://github.com/graphql-java-generator) is available as a [Maven plugin](https://github.com/graphql-java-generator/graphql-maven-plugin-project) ⭐ 131 | 🐛 1 | 🌐 Java | 📅 2026-09-06 and a [Gradle plugin](https://github.com/graphql-java-generator/graphql-gradle-plugin-project) ⭐ 60 | 🐛 2 | 🌐 Java | 📅 2026-02-26. It has two modes :
+* [GraphQL Java Generator](https://github.com/graphql-java-generator) is available as a [Maven plugin](https://github.com/graphql-java-generator/graphql-maven-plugin-project) ⭐ 131 | 🐛 1 | 🌐 Java | 📅 2026-09-08 and a [Gradle plugin](https://github.com/graphql-java-generator/graphql-gradle-plugin-project) ⭐ 60 | 🐛 2 | 🌐 Java | 📅 2026-02-26. It has two modes :
 
   * The Client mode generates the Java classes that contains methods to call the GraphQL endpoint , and the POJO that will contain the data returned by the server.
 
@@ -60,7 +60,7 @@
 
 * [graphql-jpa-query](https://github.com/introproventures/graphql-jpa-query) ⭐ 208 | 🐛 61 | 🌐 Java | 📅 2026-03-24: GraphQL Query Api for JPA 2.1 Entity Models
 
-* [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql) ⭐ 177 | 🐛 142 | 🌐 Java | 📅 2026-09-07: An implementation of the above mentioned Specification used in [Quarkus](https://quarkus.io/blog/quarkus-1-5-final-released/) and [OpenLiberty](https://openliberty.io/blog/2020/06/05/graphql-open-liberty-20006.html)
+* [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql) ⭐ 177 | 🐛 136 | 🌐 Java | 📅 2026-09-08: An implementation of the above mentioned Specification used in [Quarkus](https://quarkus.io/blog/quarkus-1-5-final-released/) and [OpenLiberty](https://openliberty.io/blog/2020/06/05/graphql-open-liberty-20006.html)
 
 * [graphql-jpa](https://github.com/jcrygier/graphql-jpa) ⭐ 166 | 🐛 12 | 🌐 Java | 📅 2018-06-11: JPA Implementation of GraphQL (builds on graphql-java)
 
@@ -98,7 +98,7 @@
 
 * [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 229 | 🐛 24 | 🌐 Java | 📅 2026-09-08: Servlet that automatically exposes a schema dynamically built from GraphQL queries and mutations.
 
-* [micronaut-graphql](https://github.com/micronaut-projects/micronaut-graphql) ⭐ 88 | 🐛 30 | 🌐 Java | 📅 2026-09-07: Provides Micronaut GraphQL integration.
+* [micronaut-graphql](https://github.com/micronaut-projects/micronaut-graphql) ⭐ 88 | 🐛 30 | 🌐 Java | 📅 2026-09-08: Provides Micronaut GraphQL integration.
 
 * [GORM GraphQL](https://github.com/grails/gorm-graphql) ⚠️ Archived: An fully customizable addon for [GORM](http://gorm.grails.org) (Grails Object Relational Model) to generate a GraphQL schema automatically.
 
@@ -134,7 +134,7 @@
 
 ## Tools
 
-* [JS GraphQL IntelliJ Plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin) ⭐ 898 | 🐛 157 | 🌐 Java | 📅 2026-09-07: GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based on the IntelliJ Platform.
+* [JS GraphQL IntelliJ Plugin](https://github.com/jimkyndemeyer/js-graphql-intellij-plugin) ⭐ 898 | 🐛 157 | 🌐 Java | 📅 2026-09-08: GraphQL language support for WebStorm, IntelliJ IDEA and other IDEs based on the IntelliJ Platform.
 * [graphql-calculator](https://github.com/graphql-calculator/graphql-calculator) ⭐ 111 | 🐛 18 | 🌐 Java | 📅 2026-03-10 - A lightweight graphql calculation engine, implemented based on directive.
 
 ## License
@@ -145,4 +145,4 @@ To the extent possible under law, the [contributors](https://github.com/graphql-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
