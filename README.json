@@ -865,7 +865,7 @@
             "id": 56257169,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-12T13:42:22Z",
+            "last_commit": "2026-09-13T17:14:30Z",
             "open_issues": 24,
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
@@ -889,8 +889,8 @@
             "id": 161447804,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T15:53:11Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-13T11:15:34Z",
+            "open_issues": 25,
             "owner": "micronaut-projects",
             "repo": "micronaut-graphql",
             "stars": 88,
@@ -1283,7 +1283,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T01:03:57.131Z",
+    "last_updated": "2026-09-14T01:09:58.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome list of graphql-java related projects",
