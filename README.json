@@ -42,8 +42,8 @@
             "id": 96673192,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-24T20:37:53Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-15T20:39:33Z",
+            "open_issues": 7,
             "owner": "tailrocks",
             "repo": "graphql-java-datetime",
             "stars": 153,
@@ -103,8 +103,8 @@
                 "id": 81460205,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-09-12T02:06:45Z",
-                "open_issues": 92,
+                "last_commit": "2026-09-15T14:17:42Z",
+                "open_issues": 93,
                 "owner": "graphql-java-kickstart",
                 "repo": "graphql-java-tools",
                 "stars": 824,
@@ -580,8 +580,8 @@
                 "id": 179494421,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T19:35:58Z",
-                "open_issues": 139,
+                "last_commit": "2026-09-15T19:34:55Z",
+                "open_issues": 141,
                 "owner": "smallrye",
                 "repo": "smallrye-graphql",
                 "stars": 177,
@@ -834,6 +834,33 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Netflix DGS Framework",
+          "description": "A GraphQL server framework for Spring Boot developed by Netflix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GraphQL for Java with Spring Boot made easy.",
+            "homepage": "https://netflix.github.io/dgs",
+            "id": 317375887,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-14T19:12:52Z",
+            "open_issues": 44,
+            "owner": "Netflix",
+            "repo": "dgs-framework",
+            "stars": 3392,
+            "topics": [
+              "dgs",
+              "graphql",
+              "graphql-java",
+              "java",
+              "spring-boot"
+            ]
+          },
+          "first_seen": "2026-09-16T01:28:01.534Z"
+        },
+        {
+          "node_type": "item",
           "title": "graphql-spring-boot",
           "description": "GraphQL and GraphiQL Spring Framework Boot Starters",
           "children": [],
@@ -865,7 +892,7 @@
             "id": 56257169,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T21:14:48Z",
+            "last_commit": "2026-09-16T00:59:32Z",
             "open_issues": 24,
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
@@ -889,8 +916,8 @@
             "id": 161447804,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T17:22:22Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-15T22:59:16Z",
+            "open_issues": 25,
             "owner": "micronaut-projects",
             "repo": "micronaut-graphql",
             "stars": 88,
@@ -1137,6 +1164,33 @@
       "items": [
         {
           "node_type": "item",
+          "title": "DGS Extended Formatters",
+          "description": "A set of Netflix DGS schema directives for common response formatting use cases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A set of DGS Directives for common formatting use-cases",
+            "homepage": null,
+            "id": 488200467,
+            "language": "Java",
+            "license": "MIT",
+            "last_commit": "2026-09-15T17:53:39Z",
+            "open_issues": 3,
+            "owner": "setchy",
+            "repo": "dgs-extended-formatters",
+            "stars": 7,
+            "topics": []
+          },
+          "first_seen": "2026-09-16T01:28:01.534Z"
+        }
+      ],
+      "title": "Schema Directives"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "java-dataloader",
           "description": "A pure java 8 port of Facebook DataLoader",
           "children": [],
@@ -1202,8 +1256,8 @@
             "id": 96673192,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-24T20:37:53Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-15T20:39:33Z",
+            "open_issues": 7,
             "owner": "tailrocks",
             "repo": "graphql-java-datetime",
             "stars": 153,
@@ -1236,7 +1290,7 @@
             "id": 47924453,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-14T16:09:07Z",
+            "last_commit": "2026-09-15T03:46:52Z",
             "open_issues": 157,
             "owner": "JetBrains",
             "repo": "js-graphql-intellij-plugin",
@@ -1283,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:31:44.050Z",
+    "last_updated": "2026-09-16T01:28:01.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome list of graphql-java related projects",
@@ -1291,7 +1345,7 @@
       "id": 90590303,
       "language": null,
       "license": null,
-      "last_commit": "2023-11-02T02:59:36Z",
+      "last_commit": "2026-09-16T00:00:00Z",
       "open_issues": 2,
       "owner": "graphql-java",
       "repo": "awesome-graphql-java",
@@ -1302,7 +1356,7 @@
         "graphql-java"
       ]
     },
-    "original_repository_sha": "8461af25d30cde8eae8789b1cea451e5edc2036d",
+    "original_repository_sha": "233d758d1830d0e9d40104f1ba606e991714c9c2",
     "enhanced_repository": "enhansome/enhansome-graphql-java",
     "enhanced_repository_description": null,
     "title": "Awesome graphql-java with stars"
