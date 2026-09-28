@@ -848,7 +848,7 @@
             "open_issues": 47,
             "owner": "Netflix",
             "repo": "dgs-framework",
-            "stars": 3396,
+            "stars": 3397,
             "topics": [
               "dgs",
               "graphql",
@@ -892,7 +892,7 @@
             "id": 56257169,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T03:28:11Z",
+            "last_commit": "2026-09-27T20:49:51Z",
             "open_issues": 24,
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
@@ -916,7 +916,7 @@
             "id": 161447804,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T16:34:24Z",
+            "last_commit": "2026-09-27T16:25:35Z",
             "open_issues": 28,
             "owner": "micronaut-projects",
             "repo": "micronaut-graphql",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T01:31:05.446Z",
+    "last_updated": "2026-09-28T01:42:25.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome list of graphql-java related projects",
@@ -1346,7 +1346,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-16T00:00:00Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "graphql-java",
       "repo": "awesome-graphql-java",
       "stars": 593,
