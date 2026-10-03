@@ -844,7 +844,7 @@
             "id": 317375887,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T21:43:12Z",
+            "last_commit": "2026-10-03T02:20:22Z",
             "open_issues": 48,
             "owner": "Netflix",
             "repo": "dgs-framework",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:02:10.885Z",
+    "last_updated": "2026-10-03T04:47:14.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome list of graphql-java related projects",

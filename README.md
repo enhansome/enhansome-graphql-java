@@ -2,7 +2,7 @@
 
 > Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,220 | 🐛 49 | 🌐 Java | 📅 2026-10-02
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,758 | 🐛 106 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,796 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 ## Official Spring integration
 
@@ -94,7 +94,7 @@
 
 ## Exposing a Schema
 
-* [Netflix DGS Framework](https://github.com/Netflix/dgs-framework) ⭐ 3,398 | 🐛 48 | 🌐 Kotlin | 📅 2026-10-02: A GraphQL server framework for Spring Boot developed by Netflix.
+* [Netflix DGS Framework](https://github.com/Netflix/dgs-framework) ⭐ 3,398 | 🐛 48 | 🌐 Kotlin | 📅 2026-10-03: A GraphQL server framework for Spring Boot developed by Netflix.
 
 * [graphql-spring-boot](https://github.com/graphql-java/graphql-spring-boot) ⚠️ Archived: GraphQL and GraphiQL Spring Framework Boot Starters
 
@@ -147,7 +147,7 @@
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the [contributors](https://github.com/graphql-java/awesome-graphql-java/graphs/contributors) ⭐ 593 | 🐛 4 | 📅 2026-09-16 have waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, the [contributors](https://github.com/graphql-java/awesome-graphql-java/graphs/contributors) have waived all copyright and related or neighboring rights to this work.
 
 ***
 
