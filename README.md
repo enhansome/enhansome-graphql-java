@@ -1,8 +1,8 @@
 # Awesome graphql-java with stars
 
-> Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,220 | 🐛 49 | 🌐 Java | 📅 2026-10-02
+> Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,220 | 🐛 50 | 🌐 Java | 📅 2026-10-02
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,208 | 🐛 107 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,715 | 🐛 107 | 📅 2026-09-02 list thing.*
 
 ## Official Spring integration
 
@@ -18,7 +18,7 @@
 
 ### Schema First
 
-* [graphql-java-tools](https://github.com/graphql-java/graphql-java-tools) ⭐ 824 | 🐛 55 | 🌐 Kotlin | 📅 2026-10-03: A schema-first tool for graphql-java inspired by graphql-tools for JS
+* [graphql-java-tools](https://github.com/graphql-java/graphql-java-tools) ⭐ 824 | 🐛 43 | 🌐 Kotlin | 📅 2026-10-04: A schema-first tool for graphql-java inspired by graphql-tools for JS
 
 * [graphql-java-codegen-maven-plugin](https://github.com/kobylynskyi/graphql-java-codegen/tree/master/plugins/maven) ⭐ 299 | 🐛 91 | 🌐 Java | 📅 2026-09-24: Maven plugin for generating JVM languages(Such as Scala,Kotlin,Java) types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools.
 
@@ -100,7 +100,7 @@
 
 * [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 229 | 🐛 24 | 🌐 Java | 📅 2026-10-02: Servlet that automatically exposes a schema dynamically built from GraphQL queries and mutations.
 
-* [micronaut-graphql](https://github.com/micronaut-projects/micronaut-graphql) ⭐ 88 | 🐛 30 | 🌐 Java | 📅 2026-10-03: Provides Micronaut GraphQL integration.
+* [micronaut-graphql](https://github.com/micronaut-projects/micronaut-graphql) ⭐ 88 | 🐛 19 | 🌐 Java | 📅 2026-10-04: Provides Micronaut GraphQL integration.
 
 * [GORM GraphQL](https://github.com/grails/gorm-graphql) ⚠️ Archived: An fully customizable addon for [GORM](http://gorm.grails.org) (Grails Object Relational Model) to generate a GraphQL schema automatically.
 
@@ -126,7 +126,7 @@
 
 ## Schema Directives
 
-* [DGS Extended Formatters](https://github.com/setchy/dgs-extended-formatters) ⭐ 7 | 🐛 5 | 🌐 Java | 📅 2026-10-01: A set of Netflix DGS schema directives for common response formatting use cases.
+* [DGS Extended Formatters](https://github.com/setchy/dgs-extended-formatters) ⭐ 7 | 🐛 5 | 🌐 Java | 📅 2026-10-05: A set of Netflix DGS schema directives for common response formatting use cases.
 
 ## Batch Loading
 
@@ -151,4 +151,4 @@ To the extent possible under law, the [contributors](https://github.com/graphql-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
