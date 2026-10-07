@@ -844,8 +844,8 @@
             "id": 317375887,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T02:20:22Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-07T00:36:52Z",
+            "open_issues": 49,
             "owner": "Netflix",
             "repo": "dgs-framework",
             "stars": 3399,
@@ -892,7 +892,7 @@
             "id": 56257169,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T05:01:49Z",
+            "last_commit": "2026-10-07T02:14:28Z",
             "open_issues": 24,
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
@@ -1290,7 +1290,7 @@
             "id": 47924453,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-06T03:51:54Z",
+            "last_commit": "2026-10-06T22:09:06Z",
             "open_issues": 157,
             "owner": "JetBrains",
             "repo": "js-graphql-intellij-plugin",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:33:16.477Z",
+    "last_updated": "2026-10-07T02:26:24.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome list of graphql-java related projects",
