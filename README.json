@@ -103,8 +103,8 @@
                 "id": 81460205,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-10-09T21:56:59Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-10T22:20:57Z",
+                "open_issues": 33,
                 "owner": "graphql-java-kickstart",
                 "repo": "graphql-java-tools",
                 "stars": 823,
@@ -474,7 +474,7 @@
                 "open_issues": 85,
                 "owner": "ExpediaGroup",
                 "repo": "graphql-kotlin",
-                "stars": 1805,
+                "stars": 1804,
                 "topics": [
                   "federation",
                   "graphql",
@@ -848,7 +848,7 @@
             "open_issues": 49,
             "owner": "Netflix",
             "repo": "dgs-framework",
-            "stars": 3400,
+            "stars": 3399,
             "topics": [
               "dgs",
               "graphql",
@@ -896,7 +896,7 @@
             "open_issues": 24,
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
-            "stars": 229,
+            "stars": 228,
             "topics": [
               "graphql",
               "graphql-java"
@@ -916,8 +916,8 @@
             "id": 161447804,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T00:29:15Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-10T12:29:37Z",
+            "open_issues": 25,
             "owner": "micronaut-projects",
             "repo": "micronaut-graphql",
             "stars": 88,
@@ -1174,7 +1174,7 @@
             "id": 488200467,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-05T21:03:31Z",
+            "last_commit": "2026-10-10T16:32:33Z",
             "open_issues": 5,
             "owner": "setchy",
             "repo": "dgs-extended-formatters",
@@ -1290,7 +1290,7 @@
             "id": 47924453,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-08T11:53:57Z",
+            "last_commit": "2026-10-10T19:40:46Z",
             "open_issues": 157,
             "owner": "JetBrains",
             "repo": "js-graphql-intellij-plugin",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:23:15.927Z",
+    "last_updated": "2026-10-11T01:57:36.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome list of graphql-java related projects",
