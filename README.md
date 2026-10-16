@@ -2,7 +2,7 @@
 
 > Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,220 | 🐛 54 | 🌐 Java | 📅 2026-10-09
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,037 | 🐛 105 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,521 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Official Spring integration
 
@@ -60,7 +60,7 @@
 
 * [graphql-jpa-query](https://github.com/introproventures/graphql-jpa-query) ⭐ 208 | 🐛 61 | 🌐 Java | 📅 2026-03-24: GraphQL Query Api for JPA 2.1 Entity Models
 
-* [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql) ⭐ 177 | 🐛 144 | 🌐 Java | 📅 2026-10-14: An implementation of the above mentioned Specification used in [Quarkus](https://quarkus.io/blog/quarkus-1-5-final-released/) and [OpenLiberty](https://openliberty.io/blog/2020/06/05/graphql-open-liberty-20006.html)
+* [SmallRye GraphQL](https://github.com/smallrye/smallrye-graphql) ⭐ 177 | 🐛 142 | 🌐 Java | 📅 2026-10-15: An implementation of the above mentioned Specification used in [Quarkus](https://quarkus.io/blog/quarkus-1-5-final-released/) and [OpenLiberty](https://openliberty.io/blog/2020/06/05/graphql-open-liberty-20006.html)
 
 * [graphql-jpa](https://github.com/jcrygier/graphql-jpa) ⭐ 166 | 🐛 12 | 🌐 Java | 📅 2018-06-11: JPA Implementation of GraphQL (builds on graphql-java)
 
@@ -94,11 +94,11 @@
 
 ## Exposing a Schema
 
-* [Netflix DGS Framework](https://github.com/Netflix/dgs-framework) ⭐ 3,400 | 🐛 49 | 🌐 Kotlin | 📅 2026-10-14: A GraphQL server framework for Spring Boot developed by Netflix.
+* [Netflix DGS Framework](https://github.com/Netflix/dgs-framework) ⭐ 3,401 | 🐛 49 | 🌐 Kotlin | 📅 2026-10-14: A GraphQL server framework for Spring Boot developed by Netflix.
 
 * [graphql-spring-boot](https://github.com/graphql-java/graphql-spring-boot) ⚠️ Archived: GraphQL and GraphiQL Spring Framework Boot Starters
 
-* [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 228 | 🐛 24 | 🌐 Java | 📅 2026-10-14: Servlet that automatically exposes a schema dynamically built from GraphQL queries and mutations.
+* [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 228 | 🐛 24 | 🌐 Java | 📅 2026-10-15: Servlet that automatically exposes a schema dynamically built from GraphQL queries and mutations.
 
 * [micronaut-graphql](https://github.com/micronaut-projects/micronaut-graphql) ⭐ 88 | 🐛 23 | 🌐 Java | 📅 2026-10-14: Provides Micronaut GraphQL integration.
 
@@ -106,7 +106,7 @@
 
 * [graffiti](https://github.com/creactiviti/graffiti) ⭐ 63 | 🐛 0 | 🌐 Java | 📅 2017-12-17 - a headless Java CMS.
 
-* [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) ⚠️ Archived - [Dropwizard](http://dropwizard.io) bundle for exposing a GraphQL endpoint (uses [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 228 | 🐛 24 | 🌐 Java | 📅 2026-10-14 internally)
+* [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) ⚠️ Archived - [Dropwizard](http://dropwizard.io) bundle for exposing a GraphQL endpoint (uses [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 228 | 🐛 24 | 🌐 Java | 📅 2026-10-15 internally)
 
 * [spring-boot-starter-graphql](https://github.com/creactiviti/spring-boot-starter-graphql) ⭐ 41 | 🐛 1 | 🌐 Java | 📅 2018-02-11 - Spring Boot Starter for GraphQL.
 
@@ -151,4 +151,4 @@ To the extent possible under law, the [contributors](https://github.com/graphql-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

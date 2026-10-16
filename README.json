@@ -580,8 +580,8 @@
                 "id": 179494421,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T20:42:54Z",
-                "open_issues": 144,
+                "last_commit": "2026-10-15T19:34:40Z",
+                "open_issues": 142,
                 "owner": "smallrye",
                 "repo": "smallrye-graphql",
                 "stars": 177,
@@ -848,7 +848,7 @@
             "open_issues": 49,
             "owner": "Netflix",
             "repo": "dgs-framework",
-            "stars": 3400,
+            "stars": 3401,
             "topics": [
               "dgs",
               "graphql",
@@ -892,7 +892,7 @@
             "id": 56257169,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T23:29:29Z",
+            "last_commit": "2026-10-15T21:39:17Z",
             "open_issues": 24,
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
@@ -1290,7 +1290,7 @@
             "id": 47924453,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-15T00:47:22Z",
+            "last_commit": "2026-10-15T12:53:42Z",
             "open_issues": 157,
             "owner": "JetBrains",
             "repo": "js-graphql-intellij-plugin",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:31:01.728Z",
+    "last_updated": "2026-10-16T01:25:03.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome list of graphql-java related projects",
