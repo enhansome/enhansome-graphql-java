@@ -103,8 +103,8 @@
                 "id": 81460205,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-10-16T21:22:50Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-17T23:33:15Z",
+                "open_issues": 29,
                 "owner": "graphql-java-kickstart",
                 "repo": "graphql-java-tools",
                 "stars": 823,
@@ -448,7 +448,7 @@
                 "open_issues": 48,
                 "owner": "google",
                 "repo": "rejoiner",
-                "stars": 3654,
+                "stars": 3655,
                 "topics": [
                   "graphql",
                   "graphql-server",
@@ -505,7 +505,7 @@
                 "open_issues": 94,
                 "owner": "leangen",
                 "repo": "graphql-spqr",
-                "stars": 1103,
+                "stars": 1104,
                 "topics": [
                   "graphql",
                   "graphql-api",
@@ -892,7 +892,7 @@
             "id": 56257169,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T17:02:54Z",
+            "last_commit": "2026-10-17T20:32:27Z",
             "open_issues": 24,
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
@@ -916,8 +916,8 @@
             "id": 161447804,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T00:29:33Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-17T12:23:28Z",
+            "open_issues": 28,
             "owner": "micronaut-projects",
             "repo": "micronaut-graphql",
             "stars": 88,
@@ -992,7 +992,7 @@
             "open_issues": 2,
             "owner": "smoketurner",
             "repo": "dropwizard-graphql",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "dropwizard",
               "dropwizard-graphql",
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T01:20:31.503Z",
+    "last_updated": "2026-10-18T01:07:26.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome list of graphql-java related projects",
