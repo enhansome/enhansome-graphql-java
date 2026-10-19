@@ -1,8 +1,8 @@
 # Awesome graphql-java with stars
 
-> Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,221 | 🐛 57 | 🌐 Java | 📅 2026-10-09
+> Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,221 | 🐛 58 | 🌐 Java | 📅 2026-10-09
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,512 | 🐛 105 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,990 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Official Spring integration
 
@@ -18,7 +18,7 @@
 
 ### Schema First
 
-* [graphql-java-tools](https://github.com/graphql-java/graphql-java-tools) ⭐ 823 | 🐛 29 | 🌐 Kotlin | 📅 2026-10-17: A schema-first tool for graphql-java inspired by graphql-tools for JS
+* [graphql-java-tools](https://github.com/graphql-java/graphql-java-tools) ⭐ 823 | 🐛 19 | 🌐 Kotlin | 📅 2026-10-19: A schema-first tool for graphql-java inspired by graphql-tools for JS
 
 * [graphql-java-codegen-maven-plugin](https://github.com/kobylynskyi/graphql-java-codegen/tree/master/plugins/maven) ⭐ 299 | 🐛 91 | 🌐 Java | 📅 2026-09-24: Maven plugin for generating JVM languages(Such as Scala,Kotlin,Java) types and Resolver interfaces. Works perfectly in conjunction with graphql-java-tools.
 
@@ -32,7 +32,7 @@
 
 * [Kobby](https://github.com/ermadmi78/kobby) ⭐ 89 | 🐛 1 | 🌐 Kotlin | 📅 2026-01-17: Codegen plugin of [Kotlin DSL Client](https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284) by GraphQL schema. The generated DSL supports execution of complex GraphQL queries, mutation and subscriptions in Kotlin with syntax similar to native GraphQL syntax.
 
-* [graphql-orchestrator-java](https://github.com/graph-quilt/graphql-orchestrator-java) ⭐ 73 | 🐛 14 | 🌐 Groovy | 📅 2025-01-29 GraphQL Orchestrator/Gateway library that supports Schema Stitching and Apollo Federation directives to combine schema from multiple GraphQL microservices into a single unified schema.
+* [graphql-orchestrator-java](https://github.com/graph-quilt/graphql-orchestrator-java) ⭐ 74 | 🐛 14 | 🌐 Groovy | 📅 2025-01-29 GraphQL Orchestrator/Gateway library that supports Schema Stitching and Apollo Federation directives to combine schema from multiple GraphQL microservices into a single unified schema.
 
 * [graphql-apigen](https://github.com/Distelli/graphql-apigen) ⭐ 65 | 🐛 18 | 🌐 Java | 📅 2024-01-23: Generate Java APIs with GraphQL Schemas
 
@@ -54,7 +54,7 @@
 
 * [graphql-kotlin](https://github.com/ExpediaDotCom/graphql-kotlin) ⭐ 1,804 | 🐛 86 | 🌐 Kotlin | 📅 2026-10-13: Code-only GraphQL schema generation for Kotlin
 
-* [GraphQL-SPQR](https://github.com/leangen/GraphQL-SPQR) ⭐ 1,104 | 🐛 94 | 🌐 Java | 📅 2026-01-27: Java 8+ API for rapid development of GraphQL services
+* [GraphQL-SPQR](https://github.com/leangen/GraphQL-SPQR) ⭐ 1,105 | 🐛 94 | 🌐 Java | 📅 2026-01-27: Java 8+ API for rapid development of GraphQL services
 
 * [graphql-java-annotations](https://github.com/graphql-java/graphql-java-annotations) ⭐ 393 | 🐛 5 | 🌐 Java | 📅 2026-09-03: Annotations-based syntax for GraphQL schema definition.
 
@@ -84,7 +84,7 @@
 
 ## Apollo Federation
 
-* [federation-jvm](https://github.com/apollographql/federation-jvm) ⭐ 272 | 🐛 22 | 🌐 Java | 📅 2026-10-08:  An implementation of the [Apollo Federation Specification](https://www.apollographql.com/docs/federation/federation-spec/) for graphql-java
+* [federation-jvm](https://github.com/apollographql/federation-jvm) ⭐ 273 | 🐛 22 | 🌐 Java | 📅 2026-10-08:  An implementation of the [Apollo Federation Specification](https://www.apollographql.com/docs/federation/federation-spec/) for graphql-java
 
 ## Execution Strategies
 
@@ -94,19 +94,19 @@
 
 ## Exposing a Schema
 
-* [Netflix DGS Framework](https://github.com/Netflix/dgs-framework) ⭐ 3,402 | 🐛 49 | 🌐 Kotlin | 📅 2026-10-14: A GraphQL server framework for Spring Boot developed by Netflix.
+* [Netflix DGS Framework](https://github.com/Netflix/dgs-framework) ⭐ 3,402 | 🐛 51 | 🌐 Kotlin | 📅 2026-10-14: A GraphQL server framework for Spring Boot developed by Netflix.
 
 * [graphql-spring-boot](https://github.com/graphql-java/graphql-spring-boot) ⚠️ Archived: GraphQL and GraphiQL Spring Framework Boot Starters
 
-* [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 228 | 🐛 24 | 🌐 Java | 📅 2026-10-17: Servlet that automatically exposes a schema dynamically built from GraphQL queries and mutations.
+* [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 228 | 🐛 24 | 🌐 Java | 📅 2026-10-18: Servlet that automatically exposes a schema dynamically built from GraphQL queries and mutations.
 
-* [micronaut-graphql](https://github.com/micronaut-projects/micronaut-graphql) ⭐ 88 | 🐛 28 | 🌐 Java | 📅 2026-10-17: Provides Micronaut GraphQL integration.
+* [micronaut-graphql](https://github.com/micronaut-projects/micronaut-graphql) ⭐ 88 | 🐛 28 | 🌐 Java | 📅 2026-10-18: Provides Micronaut GraphQL integration.
 
 * [GORM GraphQL](https://github.com/grails/gorm-graphql) ⚠️ Archived: An fully customizable addon for [GORM](http://gorm.grails.org) (Grails Object Relational Model) to generate a GraphQL schema automatically.
 
 * [graffiti](https://github.com/creactiviti/graffiti) ⭐ 63 | 🐛 0 | 🌐 Java | 📅 2017-12-17 - a headless Java CMS.
 
-* [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) ⚠️ Archived - [Dropwizard](http://dropwizard.io) bundle for exposing a GraphQL endpoint (uses [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 228 | 🐛 24 | 🌐 Java | 📅 2026-10-17 internally)
+* [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) ⚠️ Archived - [Dropwizard](http://dropwizard.io) bundle for exposing a GraphQL endpoint (uses [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 228 | 🐛 24 | 🌐 Java | 📅 2026-10-18 internally)
 
 * [spring-boot-starter-graphql](https://github.com/creactiviti/spring-boot-starter-graphql) ⭐ 41 | 🐛 1 | 🌐 Java | 📅 2018-02-11 - Spring Boot Starter for GraphQL.
 
@@ -130,7 +130,7 @@
 
 ## Batch Loading
 
-* [java-dataloader](https://github.com/graphql-java/java-dataloader) ⭐ 525 | 🐛 27 | 🌐 Java | 📅 2026-08-31: A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) ⭐ 13,387 | 🐛 43 | 🌐 JavaScript | 📅 2026-09-16
+* [java-dataloader](https://github.com/graphql-java/java-dataloader) ⭐ 525 | 🐛 27 | 🌐 Java | 📅 2026-08-31: A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) ⭐ 13,386 | 🐛 44 | 🌐 JavaScript | 📅 2026-10-18
 
 ## Scalars
 
@@ -151,4 +151,4 @@ To the extent possible under law, the [contributors](https://github.com/graphql-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
