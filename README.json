@@ -448,7 +448,7 @@
                 "open_issues": 48,
                 "owner": "google",
                 "repo": "rejoiner",
-                "stars": 3655,
+                "stars": 3654,
                 "topics": [
                   "graphql",
                   "graphql-server",
@@ -892,7 +892,7 @@
             "id": 56257169,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T01:03:07Z",
+            "last_commit": "2026-11-02T01:02:13Z",
             "open_issues": 24,
             "owner": "graphql-java-kickstart",
             "repo": "graphql-java-servlet",
@@ -916,8 +916,8 @@
             "id": 161447804,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T10:39:04Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-01T13:32:45Z",
+            "open_issues": 27,
             "owner": "micronaut-projects",
             "repo": "micronaut-graphql",
             "stars": 88,
@@ -1201,8 +1201,8 @@
             "id": 97364654,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T03:32:21Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-01T06:16:55Z",
+            "open_issues": 19,
             "owner": "graphql-java",
             "repo": "java-dataloader",
             "stars": 525,
@@ -1337,7 +1337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:16:30.815Z",
+    "last_updated": "2026-11-02T02:33:33.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome list of graphql-java related projects",

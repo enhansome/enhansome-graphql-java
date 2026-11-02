@@ -1,8 +1,8 @@
 # Awesome graphql-java with stars
 
-> Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,222 | 🐛 55 | 🌐 Java | 📅 2026-11-01
+> Libraries and projects related to [graphql-java](https://github.com/graphql-java/graphql-java) ⭐ 6,222 | 🐛 57 | 🌐 Java | 📅 2026-11-02
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 528,062 | 🐛 105 | 📅 2026-09-02 list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 528,777 | 🐛 105 | 📅 2026-09-02 list thing.*
 
 ## Official Spring integration
 
@@ -98,15 +98,15 @@
 
 * [graphql-spring-boot](https://github.com/graphql-java/graphql-spring-boot) ⚠️ Archived: GraphQL and GraphiQL Spring Framework Boot Starters
 
-* [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 228 | 🐛 24 | 🌐 Java | 📅 2026-11-01: Servlet that automatically exposes a schema dynamically built from GraphQL queries and mutations.
+* [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 228 | 🐛 24 | 🌐 Java | 📅 2026-11-02: Servlet that automatically exposes a schema dynamically built from GraphQL queries and mutations.
 
-* [micronaut-graphql](https://github.com/micronaut-projects/micronaut-graphql) ⭐ 88 | 🐛 29 | 🌐 Java | 📅 2026-10-31: Provides Micronaut GraphQL integration.
+* [micronaut-graphql](https://github.com/micronaut-projects/micronaut-graphql) ⭐ 88 | 🐛 27 | 🌐 Java | 📅 2026-11-01: Provides Micronaut GraphQL integration.
 
 * [GORM GraphQL](https://github.com/grails/gorm-graphql) ⚠️ Archived: An fully customizable addon for [GORM](http://gorm.grails.org) (Grails Object Relational Model) to generate a GraphQL schema automatically.
 
 * [graffiti](https://github.com/creactiviti/graffiti) ⭐ 63 | 🐛 0 | 🌐 Java | 📅 2017-12-17 - a headless Java CMS.
 
-* [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) ⚠️ Archived - [Dropwizard](http://dropwizard.io) bundle for exposing a GraphQL endpoint (uses [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 228 | 🐛 24 | 🌐 Java | 📅 2026-11-01 internally)
+* [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) ⚠️ Archived - [Dropwizard](http://dropwizard.io) bundle for exposing a GraphQL endpoint (uses [graphql-java-servlet](https://github.com/graphql-java/graphql-java-servlet) ⭐ 228 | 🐛 24 | 🌐 Java | 📅 2026-11-02 internally)
 
 * [spring-boot-starter-graphql](https://github.com/creactiviti/spring-boot-starter-graphql) ⭐ 41 | 🐛 1 | 🌐 Java | 📅 2018-02-11 - Spring Boot Starter for GraphQL.
 
@@ -130,7 +130,7 @@
 
 ## Batch Loading
 
-* [java-dataloader](https://github.com/graphql-java/java-dataloader) ⭐ 525 | 🐛 20 | 🌐 Java | 📅 2026-10-22: A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) ⭐ 13,391 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-18
+* [java-dataloader](https://github.com/graphql-java/java-dataloader) ⭐ 525 | 🐛 19 | 🌐 Java | 📅 2026-11-01: A pure java 8 port of [Facebook DataLoader](https://github.com/facebook/dataloader) ⭐ 13,391 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-18
 
 ## Scalars
 
@@ -151,4 +151,4 @@ To the extent possible under law, the [contributors](https://github.com/graphql-
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
